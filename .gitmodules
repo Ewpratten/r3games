@@ -1,0 +1,3 @@
+[submodule "ThirdParty/coa_tools"]
+	path = ThirdParty/coa_tools
+	url = https://github.com/kreezii/coa_tools
