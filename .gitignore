@@ -22,3 +22,4 @@ export_presets.cfg
 data_*/
 
 **/__pycache__
+/book
