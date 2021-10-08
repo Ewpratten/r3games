@@ -1,0 +1,19 @@
+[book]
+authors = ["Evan Pratten"]
+language = "en"
+multilingual = false
+src = "docs"
+title = "r3games documentation"
+
+[output.html]
+mathjax-support = true
+theme = "light"
+default-theme = "light"
+git-repository-url = "https://github.com/Ewpratten/r3games"
+cname = "r3g.va3zza.com"
+
+[output.html.search]
+enable = true
+
+[output.html.print]
+enable = true
